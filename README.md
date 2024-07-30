@@ -8,7 +8,7 @@ This project delves into the world of tweet sarcasm, where the true meaning lies
 Sarcasm detection is a tricky business, even for humans. It relies heavily on irony and mockery, often conveying the opposite of what's literally said. Here, we're developing a solution to navigate this ambiguity and bring clarity to online communication.
 
 
-Why This Matters?
+# Why This Matters?
 
 
 Our solution aims to achieve just that, by:
@@ -20,10 +20,10 @@ Real-Time Customer Feedback: Imagine understanding customer sentiment in real-ti
 
 Scalable Framework: This project is designed to be adaptable, catering to various industries that require sarcasm detection capabilities.
 
-Features:
+# Features:
 
 
-Here's a peek under to see what makes this project tick:
+# Here's a peek under to see what makes this project tick:
 
 
 Data Preprocessing: Techniques for cleaning and preparing textual data.
@@ -36,7 +36,7 @@ Evaluation Metrics: Tools to evaluate the performance of the models.
 
 Visualization: Visual representation of data and results.
 
-The Data Description:
+# The Data Description:
 
 
 The dataset used for this project consists of Tweets and is collected from Hugging Face. Each review is labeled as either sarcastic (yes) or non-sarcastic (no).
